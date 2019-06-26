@@ -1,0 +1,3 @@
+# scheme
+
+going through write yourself a scheme in haskell...
